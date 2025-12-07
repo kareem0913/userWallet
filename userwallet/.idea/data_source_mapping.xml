@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/org/demo/userwallet/repository/TransactionRepository.java" value="be8005d8-eea4-4dc1-a5f5-1a89c47d66f6" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/demo/userwallet/repository/UserRepository.java" value="be8005d8-eea4-4dc1-a5f5-1a89c47d66f6" />
+  </component>
+</project>
